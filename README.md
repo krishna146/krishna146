@@ -13,11 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/cheezycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cheezycode" height="30" width="40" /></a>
-<a href="https://instagram.com/cheezycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cheezycode" height="30" width="40" /></a>
-  <a href="https://twitter.com/cheezycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cheezycode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cheezy-code-90a398122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheezycode" height="30" width="40" /></a>
-<a href="https://medium.com/@cheezycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cheezycode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNH-wM3hdE26caprYQWINPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cheezycode" height="30" width="40" /></a>
+  <a href="https://twitter.com/Krishna35381486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cheezycode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishna-kumar-8873211a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheezycode" height="30" width="40" /></a>
+<a href="https://medium.com/@krishnakumarjms12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cheezycode" height="30" width="40" /></a>
 
 </p>
 
